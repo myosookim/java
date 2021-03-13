@@ -14,8 +14,8 @@ public class TwoDimension2 {
 			System.out.println();
 	    }
 		
-		System.out.println(arr.length);	// «‡ ±Ê¿Ã
-		System.out.println(arr[0].length);	// ø≠ ±Ê¿Ã
+		System.out.println(arr.length);	// Ìñâ Í∏∏Ïù¥
+		System.out.println(arr[0].length);	// Ïó¥ Í∏∏Ïù¥
 
 	}
 }
